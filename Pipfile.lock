@@ -980,7 +980,7 @@
                 "sha256:ad12ddf276446e0440a760b7c0ba128d39602bc8e6641e0ef8447f1a466a8346"
             ],
             "index": "pypi",
-            "version": "==1.1.5"
+            "version": "==*"
         },
         "pyzmq": {
             "hashes": [
@@ -1033,7 +1033,7 @@
                 "sha256:f907c7359ce8bf7f7e63c82f75ad0223384105f5126f313400b7e8004d9b33c3"
             ],
             "index": "pypi",
-            "version": "==22.3.0"
+            "version": "==*"
         },
         "requests": {
             "hashes": [

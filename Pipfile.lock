@@ -968,7 +968,7 @@
                 "sha256:fe21c2fb332d03dac29de070f191bdbf14095167f8f2165fdc57db59b1ecc006"
             ],
             "index": "pypi",
-            "version": "==302"
+            "version": "*"
         },
         "pywinpty": {
             "hashes": [
